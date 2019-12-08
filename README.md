@@ -7,6 +7,7 @@ This repository contains the solutions for the Project created for the module Pr
 The project concerns the simulation and creation of a real-world phenomenom dataset, using python packages as Numpy. 
 
 This project will use as real-world phenomenon "Life Expectacy" 
+
 ![Life Expectancy](https://github.com/Katylub/Programming-Project/blob/master/Life%20Expectancy.png)
 
 # About the files:
